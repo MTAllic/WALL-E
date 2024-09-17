@@ -1,0 +1,17 @@
+<package format="3">
+  <name>llm_talker</name>
+  <version>0.0.0</version>
+  <description>LLM integration for ROS2</description>
+
+  <maintainer email="you@example.com">Your Name</maintainer>
+
+  <license>Apache 2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>requests</exec_depend>
+
+  <test_depend>launch_testing</test_depend>
+</package>
+
